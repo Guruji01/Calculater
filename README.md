@@ -1,2 +1,2 @@
-# Calculater
+# Project
 Beginner Project
